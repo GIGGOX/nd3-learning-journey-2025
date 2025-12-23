@@ -1,1 +1,1 @@
-##  🌏 nd3-learning-journey-2025
+##  🌏 ND3 learning journey 2025
