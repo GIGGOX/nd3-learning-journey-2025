@@ -1,6 +1,6 @@
 ## 🌏 ND3 learning journey 2025
 
-## 1. Thailand’s Industrial Automation
+## ✏️ 1. Thailand’s Industrial Automation
 
 # Thailand’s Industrial Automation
 
@@ -31,9 +31,7 @@ flowchart LR
     D --> G[Lower Cost]
 ```
 
-
-
-## 2. Industrial Networking and IoT
+## ✏️ 2. Industrial Networking and IoT
 
 #### 2.1 บทนำ (Introduction)
 
@@ -193,12 +191,8 @@ Industrial Networking เป็นรากฐานของการควบ�
 Industrial IoT ช่วยต่อยอดข้อมูลเพื่อการวิเคราะห์และเพิ่มประสิทธิภาพ  
 เมื่อรวมกันจะทำให้โรงงานก้าวสู่ **Industry 4.0** อย่างสมบูรณ์
 
+## ✏️ 3. Digital Twins
 
+## ✏️ 4. Data Processing and Machine Learning
 
-## 3. Digital Twins
-
-
-
-## 4. Data Processing and Machine Learning
-
-## 5. Future Works/Projects
+## 🚀 5. Future Works/Projects
